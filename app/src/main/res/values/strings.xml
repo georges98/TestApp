@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tag">Let\'s join us and \nBuild your relationship with others</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="timer_screen">Timer screen</string>
+    <string name="list_view_screen">List View screen</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_todo_details">TodoDetailsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/timer_screen"
+
+            android:title="@string/timer_screen" />
+        <item
+            android:id="@+id/list_view_screen"
+
+            android:title="@string/list_view_screen" />
+        <item
+            android:id="@+id/logout"
+
+            android:title="@string/logout" />
+    </group>
+</menu>
